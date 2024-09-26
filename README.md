@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/copynekoo/copynekoo/blob/main/assets/lain.jpg?raw=true" width="40%" align="right" />
+<!-- <img src="https://github.com/copynekoo/copynekoo/blob/main/assets/lain.jpg?raw=true" width="40%" align="right" /> -->
 <br><br>
 <pre>
     💻 มก / วิทคอม
@@ -11,8 +11,6 @@
     🍴 ชอบกิน ผัดกะเพราหมูสับสุดล้าว
     🎧 ฟังเพลงทุกแนว pop / r&b / pluggnb / hiphop / trap
 </pre>
-<br><br>
-<br><br><br>
     
 [![](https://img.shields.io/badge/BNK48-CD95C4)](https://www.tiktok.com/@l.bnk48official/video/7407841164709170439)
 <div class="image-container">
@@ -22,12 +20,5 @@
   </a>
 </div>
 
-<style>
-  .bnklabel {
-    color: pink;
-    font-size: 16px;
-    font-weight: bold;
-  }
-</style>
 </div>
 
